@@ -1,0 +1,7 @@
+C:\Users\РТИ-8\Desktop\КиМ\C-Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\ConsoleCalculatorV2.csprojResolveAssemblyReference.cache
+C:\Users\РТИ-8\Desktop\КиМ\C-Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\ConsoleCalculatorV2.csproj.CoreCompileInputs.cache
+C:\Users\РТИ-8\Desktop\КиМ\C-Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\ConsoleCalculatorV2.exe.config
+C:\Users\РТИ-8\Desktop\КиМ\C-Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\ConsoleCalculatorV2.exe
+C:\Users\РТИ-8\Desktop\КиМ\C-Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\ConsoleCalculatorV2.pdb
+C:\Users\РТИ-8\Desktop\КиМ\C-Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\ConsoleCalculatorV2.exe
+C:\Users\РТИ-8\Desktop\КиМ\C-Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\ConsoleCalculatorV2.pdb
